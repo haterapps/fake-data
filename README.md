@@ -14,9 +14,9 @@ Additionally, you can use the following shortcuts to fill fields faster:
 
 ##### &nbsp;&nbsp;&nbsp;Windows / Linux:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fill a single field: **Ctrl + Double Click**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fill a single field: **Alt + Double Click**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fill entire form: **Ctrl + Shift + Double Click**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fill entire form: **Alt + Shift + Double Click**
 
 
 ##### &nbsp;&nbsp;&nbsp;macOS:
